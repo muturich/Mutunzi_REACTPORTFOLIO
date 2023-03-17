@@ -1,4 +1,4 @@
-import WorkIm from '../assets/project2screenshoot.png'
+import WorkIm from '../assets/project2 screenshoot.png'
 import RealEst from '../assets/weather_screenshot.png'
 
 export const data=[
