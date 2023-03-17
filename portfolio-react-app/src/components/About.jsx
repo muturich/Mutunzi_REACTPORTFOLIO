@@ -14,9 +14,9 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hello World my name is Richard. It's a pleasure to make your acquaintance. Feel free to take a look around.</p>
+              <p>Hello world my name is Richard. It's a pleasure to make your acquaintance. Feel free to take a look around.</p>
             </div>
-            <div>
+            <div className='text-2xl'>
               <p>Crafting software solutions that improve the quality of life for people in my community is my passion.
                 I possess the necessary expertise to create top-notch software for clients of all scales,
                 ranging from individuals and small businesses to large enterprises. 
